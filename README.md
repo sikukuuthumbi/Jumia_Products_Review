@@ -88,7 +88,7 @@ Dashboard sections include:
 
 ## Files Included
 
-* `Week 1 Assignment_Excel_jumia_dataset.xlsx` – Excel workbook containing:
+* `jumia_product_performance_dashboard.xlsx` – Excel workbook containing:
 
   * Raw Dataset
   * Cleaned Dataset
